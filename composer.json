@@ -1,5 +1,5 @@
 {
-    "name": "stefk/jval",
+    "name": "claroline/jval",
     "description": "JSON Schema validator",
     "keywords": ["JSON", "JSON Schema", "validation"],
     "homepage": "https://github.com/stefk/JVal",
